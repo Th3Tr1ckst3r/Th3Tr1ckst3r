@@ -16,6 +16,5 @@ I'm passionate about open-source, and freelance development with a deeper intere
 
 ## Connect with Me
 
-- **GitHub**: [Th3Tr1ckst3r](https://github.com/Th3Tr1ckst3r)
 - **GitHub Sponsors**: [Th3Tr1ckst3r](https://github.com/sponsors/Th3Tr1ckst3r)
 - **Patreon**: [Th3Tr1ckst3r](https://www.patreon.com/Th3Tr1ckst3r)
