@@ -1,15 +1,11 @@
-# Adrian Tarver (Th3Tr1ckst3r)
-
-![Profile Picture](https://avatars.githubusercontent.com/u/21149460?v=4)
-
 ## About Me
 
 I'm passionate about open-source, and freelance development with a deeper interest in cybersecurity. I specialize in creating secure, and efficient solutions across various platforms.
 
 ### Technical Focus
 
-- **Information Security**: Cybersecurity, OSINT, Steganography, Cryptography.
-- **Operating Systems**: Linux, Windows, Android.
+- **Information Security**: Cybersecurity, OSINT, Steganography, Cryptography, Threat Analysis, History, Reverse Engineering, C2's, CTF's, & more.
+- **Operating Systems**: Linux, Windows, & Android.
 - **Programming Languages**: Python, PowerShell, Bash, Batch, C, C#, C++, Java, HTML5, & more.
 - **Technologies**: Servers, Databases, Cloud, Deep Learning, AI, & more.
 
