@@ -16,7 +16,7 @@ in ways that have never been seen, or done before. Often through a wide array of
 ### Non-Technical Interests
 
 - **Outdoor Activities**: Biking 🚴‍♂️, Hiking 🥾
-- **Hobbies**: Photography 📸, Mechanics 🚛, studying new breakthroughs in the world of I.T., & Cyber Security.
+- **Hobbies**: Photography 📸, Vehicle Mechanics 🚛
 
 
 ## Connect with Me
