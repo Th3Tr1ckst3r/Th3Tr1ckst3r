@@ -23,3 +23,4 @@ in ways that have never been seen, or done before. Often through a wide array of
 
 - **GitHub Sponsors**: [Th3Tr1ckst3r](https://github.com/sponsors/Th3Tr1ckst3r)
 - **Patreon**: [Th3Tr1ckst3r](https://www.patreon.com/Th3Tr1ckst3r)
+- **Orcid**: [Th3Tr1ckst3r](https://orcid.org/0009-0003-1044-6778)
